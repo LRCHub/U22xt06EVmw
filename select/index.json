@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "雲丹と栗",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2026-03-01T22:09:17.899610Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雲丹と栗",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_雲丹と栗_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雲丹と栗",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_雲丹と栗_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雲丹と栗 - Uni To Kuri",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_雲丹と栗_-_Uni_To_Kuri_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『雲丹と栗』 (ZUTOMAYO - Uni To Kuri)（Audio Track）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_ずっと真夜中でいいのに。『雲丹と栗』_(ZUTOMAYO_-_Uni_To_Kuri)(Audio_Track)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雲丹と栗 (インスト)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_雲丹と栗_(インスト)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雲丹と栗(Instrumental)",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/06_雲丹と栗(Instrumental)_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雲丹と栗",
+      "artist": "Zutto Mayonaka de li no ni",
+      "has_synced": true,
+      "path": "select/07_雲丹と栗_Zutto_Mayonaka_de_li_no_ni.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雲丹と栗 (Instrumental)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_雲丹と栗_(Instrumental)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雲丹と栗 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_雲丹と栗_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "雲丹と栗",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/10_雲丹と栗_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雲丹と栗",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_雲丹と栗_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "雲丹と栗",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_雲丹と栗_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "雲丹と栗",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_雲丹と栗_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
